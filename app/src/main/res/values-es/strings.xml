@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lugar</string>
+
+    <string name="hello_world">Hola Mundo!!</string>
+    <string name="hello_world_sub_text">Bienvenido al nuevo mundo de la localización y la adaptabilidad dinámica de la pantalla.</string>
+
+</resources>
